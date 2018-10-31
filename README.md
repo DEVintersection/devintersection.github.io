@@ -1,2 +1,2 @@
-# angularmix.github.io
+# devintersection.github.io
 Organzation Web Site
