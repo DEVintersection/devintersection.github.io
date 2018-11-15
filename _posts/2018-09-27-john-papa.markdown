@@ -9,4 +9,4 @@ John Papa is a Principal Developer Advocate with Microsoft and an alumni of the 
 
 Here are links to his presentation materials:
 
-- [Angular CLI](https://johnpapa.net/touringangularcli6/)
+
