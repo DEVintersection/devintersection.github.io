@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-The AngularMix conference is all about igniting conversations around Angular and enterprise technologies that make modern browsers shine. Learn directly from the Angular team as well as Angular experts from around the world about an incredibly deep list of topics. AngularMix brings the latest and greatest on progressive web apps and mobility, JavaScript/TypeScript, the Angular CLI, RxJS, AI, IoT, building for production with AOT, visualizing data and much more.
+In today’s fast-paced world with technology changing rapidly, it’s a challenge to stay on top of everything new while mastering the fundamentals. This exciting event, now in its fifth year, brings your favorite Microsoft leaders, engineers and industry experts together to educate, network, and share their expertise with you. Over the last year, ASP.NET Core, SQL Server 2017, Visual Studio 2017, Windows 10 and SharePoint 2016 launched. The newest release of Windows Server is here and open source is becoming the norm. The cloud is real and so is cloud scaling. Are you ready? Invest in your company’s success – and in your career – at an event where questions are answered, strategies are defined and relationships are built.
 
-[angularmix-organization]: https://github.com/angularmix
+[DEVintersection-organization]: https://devintersection.github.io/
