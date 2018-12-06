@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Elijah Manor"
 date:   2018-09-27 11:48:33 +0400
