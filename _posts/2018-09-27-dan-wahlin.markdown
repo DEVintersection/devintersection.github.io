@@ -9,6 +9,4 @@ Dan Wahlin (Microsoft Most Valuable Professional for ASP.NET and XML Web Service
 
 Here are links to his presentation material:
 
-- [Angular in 60-ish Minutes](http://codewithdan.me/AngularIn60)
-- [Docker for Web Developers](https://codewithdan.me/docker-4-web-devs-webinar  )
 
