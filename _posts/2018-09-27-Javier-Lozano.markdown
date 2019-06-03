@@ -12,5 +12,3 @@ Javier is CEO and Founder of Lozanotek, Inc., a .NET focused software developmen
 
 Here are links to his presentation material:
 
-- [Adding Realtime Features to Your Applications with SignalR](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/SignalR_DEVIntersections_Fall2018.pptx)
-- [Implementing Web Security in Your ASP.NET Applications](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/AspNetWebSecurity_DEVintersection_Fall2018.pptx)
