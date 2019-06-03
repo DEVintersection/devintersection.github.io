@@ -9,6 +9,3 @@ Elijah Manor is a Christian and a family man. He works at LeanKit (@leankit) as 
 
 Here are links to his presentation material:
 
-- [React Patterns & Practices](https://elijahmanor.com/talks/react-patterns-practices)
-- [React for Beginners](https://elijahmanor.com/talks/intro-to-react)
-- [Using NPM Scripts as Your Build Tool]( https://elijahmanor.com/talks/npm-scripts)
