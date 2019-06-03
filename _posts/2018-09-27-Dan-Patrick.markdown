@@ -9,4 +9,3 @@ Barry is the security curmudgeon for ASP.NET which means he gets to look at the 
 
 Here are links to his presentation material:
 
-- [Getting to the Core of ASP.NET Core Security](https://1drv.ms/p/s!Ag_k4arb0A9gmuEHuN4uuUJxewUt-g)
