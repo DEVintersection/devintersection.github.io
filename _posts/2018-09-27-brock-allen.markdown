@@ -11,3 +11,4 @@ Here are links to his presentation material:
 
 - [SECURING WEB APPLICATIONS AND APIS WITH ASP.NET CORE 2.2 AND 3.0](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Securing%20Web%20Applications%20and%20APIs%20with%20ASP.NET%20Core%202.2%20and%203.0.pdf)
 - [SECURING CALLS TO WEB APIS FOR JAVASCRIPT/SPA APPLICATIONS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Securing%20Web%20APIs%20for%20JavaScript%20and%20SPA%20Apps.pdf)
+- [DEMOS FROM BROCKS SESSIONS] (https://1drv.ms/u/s!AjXKCyy1XZYBkHvCu7VM4qG309_8?e=7EVE6x)
