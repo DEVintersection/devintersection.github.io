@@ -10,3 +10,4 @@ Google Developer Expert, Telerik Developer Expert. Published author of Learning 
 Here are links to his presentation material:
 
 - [COGNITIVE SERVICES - MACHINE LEARNING FOR DEVELOPERS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/CognitiveServicesMachineLearningForDevelopers.pptx)
+- [SAMPLE CODE](https://github.com/softchris/cognitive-services)
