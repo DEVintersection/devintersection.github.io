@@ -9,4 +9,5 @@ Dan Wahlin (Microsoft Most Valuable Professional for ASP.NET and XML Web Service
 
 Here are links to his presentation material:
 
-
+- [ANGULAR ARCHITECTURE]( https://codewithdan.me/ngvikings-2019)
+- [DOCKER AND KUBERNETES FOR DEVELOPERS](https://codewithdan.me/docker-kubernetes)
