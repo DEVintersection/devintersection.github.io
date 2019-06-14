@@ -9,3 +9,5 @@ Kathleen Dollard loves to code and loves to teach and talk about code. She’s w
 
 Here are links to her presentation material. The attached is a Readme file, where Kathleen will direct you to look for slides:
 
+- [C# 8.0](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/DOLLARD_CSharp8.zip)
+- [Functional techniques for C#](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/DOLLARD_FuncTechniquesForCSharp.zip)
