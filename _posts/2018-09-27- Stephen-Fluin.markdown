@@ -11,4 +11,4 @@ Twitter: @stephenfluin
 
 Here are links to his presentation material:
 
-- [ANGULAR IN THE ENTERPRISE]https://docs.google.com/presentation/d/1erN80GDUMOvi4Uh2-azAUeUhFwmfCUr5raS6UChTvDA/edit#slide=id.g5bc8810949_0_1315)
+- [ANGULAR IN THE ENTERPRISE](https://docs.google.com/presentation/d/1erN80GDUMOvi4Uh2-azAUeUhFwmfCUr5raS6UChTvDA/edit#slide=id.g5bc8810949_0_1315)
